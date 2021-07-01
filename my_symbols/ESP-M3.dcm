@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-M3
+F https://github.com/SmartArduino/ESPwifi/blob/master/DOIT_ESP-M3(V1_0)_docx.pdf
+$ENDCMP
+#
+#End Doc Library

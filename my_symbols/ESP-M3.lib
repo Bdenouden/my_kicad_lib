@@ -1,11 +1,12 @@
 EESchema-LIBRARY Version 2.4
+#encoding utf-8
 #
 # ESP-M3
 #
 DEF ESP-M3 U 0 40 Y Y 1 F N
 F0 "U" -300 450 50 H V C CNN
 F1 "ESP-M3" -200 350 50 H V C CNN
-F2 "project:ESP-M3" -50 350 50 H I C CNN
+F2 "my_footprints:ESP-M3" -50 350 50 H I C CNN
 F3 "" -50 350 50 H I C CNN
 DRAW
 S -350 300 350 -300 0 1 0 f
